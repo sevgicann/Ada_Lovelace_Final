@@ -80,6 +80,7 @@ Cluster 1 Insights:
 - The second focus should be this cluster. They are customers with average income. They are more likely to purchase medium or low cost products.
 
 - n_clusters=4
+Customers were seperated into four clusters. Insights into these clusters were gained.
   
 Cluster 0 Insights:
 - Low-income, old customer group with low shopping potential. Not a suitable target.
