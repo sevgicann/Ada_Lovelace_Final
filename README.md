@@ -1,4 +1,4 @@
-## Müşteri Davranışlarına Göre Pazarlama Statejisi Analizi
+## Marketing Strategy Analysis According to Customer Behavior
 
 - How consumers decide when purchasing products or services, the personal, social and psychological parameters they are affected by, and their after-sales expectations from companies determine the behavior of consumers.
 
