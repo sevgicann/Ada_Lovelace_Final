@@ -81,14 +81,14 @@ Cluster 1 Insights:
 
 n_clusters=4
 Cluster 0 Insights: 
-• Low-income, old customer group with low shopping potential. Not a suitable target.
+- Low-income, old customer group with low shopping potential. Not a suitable target.
 Cluster 1 Insights:
-• High potential customer group. Campaign acceptance rates, income levels and total 
+- High potential customer group. Campaign acceptance rates, income levels and total 
 expenditures are also better. A very suitable target.
 Cluster 2 Insights:
-• Low income, low spending, slightly newer customers. The majority of married 
+- Low income, low spending, slightly newer customers. The majority of married 
 customers.
 Cluster 3 Insights: 
-• Customer group with high income levels and spending above average
+- Customer group with high income levels and spending above average
 
 
