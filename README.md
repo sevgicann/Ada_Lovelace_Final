@@ -55,7 +55,7 @@
 
 ## Conclusion
 
-Logis Regression:
+Logis Regressions:
 - In general, if customers responded to the first five campaigns, they also respond positively to the last campaign. However, there are customers who responded negatively to the previous campaign and responded positively to the latest campaign.
 - When full logistic regression was performed by including other customer behaviors, a better predictive value was obtained than simple logistic regression. This shows that customer behavior (time since the last purchase, income level, age, shopping environment, etc.) has a more important impact on the participation rates in the campaign.
 
