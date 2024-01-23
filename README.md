@@ -60,7 +60,7 @@ Logistic Regressions:
 - When full logistic regression was performed by including other customer behaviors, a better predictive value was obtained than simple logistic regression. This shows that customer behavior (time since the last purchase, income level, age, shopping environment, etc.) has a more important impact on the participation rates in the campaign.
 
 Clustering:
-n_clusters=3
+- n_clusters=3
 
 Customers were seperated into three clusters. Insights into these clusters were gained.
 
@@ -79,15 +79,19 @@ Cluster 1 Insights:
 - Too many products are purchased. The website is highly visited.
 - The second focus should be this cluster. They are customers with average income. They are more likely to purchase medium or low cost products.
 
-n_clusters=4
-Cluster 0 Insights: 
+- n_clusters=4
+  
+Cluster 0 Insights:
 - Low-income, old customer group with low shopping potential. Not a suitable target.
+
 Cluster 1 Insights:
 - High potential customer group. Campaign acceptance rates, income levels and total 
 expenditures are also better. A very suitable target.
+
 Cluster 2 Insights:
 - Low income, low spending, slightly newer customers. The majority of married 
 customers.
+
 Cluster 3 Insights: 
 - Customer group with high income levels and spending above average
 
